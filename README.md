@@ -1,47 +1,45 @@
 # 🎫 Support Ticket Classification System (Task 2)
 
 ## 📌 Overview
-This project builds an NLP-based machine learning system that automatically classifies customer support tickets into categories and prioritizes them.
+This project uses Natural Language Processing (NLP) and Machine Learning to automatically classify customer support tickets into categories and assign priorities.
 
 ---
 
 ## 🎯 Objective
 - Classify support tickets into categories (Billing, Technical, Refund, etc.)
-- Predict ticket priority
-- Improve customer support efficiency
+- Improve support efficiency through automation
+- Analyze customer complaints using NLP
 
 ---
 
-## 🛠️ Tools Used
+## 🛠️ Tools & Libraries
 - Python
 - Pandas
 - Scikit-learn
-- NLTK / NLP techniques
-- Seaborn & Matplotlib
+- NLTK
+- Seaborn / Matplotlib
 
 ---
 
 ## ⚙️ Workflow
 1. Text cleaning and preprocessing
-2. TF-IDF vectorization
-3. Model training (Logistic Regression / Naive Bayes)
-4. Ticket classification
-5. Model evaluation using metrics
-6. Confusion matrix visualization
+2. TF-IDF feature extraction
+3. Model training using classification algorithms
+4. Ticket category prediction
+5. Performance evaluation
 
 ---
 
 ## 📊 Output
-- Ticket category prediction system
-- Priority classification
-- Confusion matrix visualization
-- Performance metrics (accuracy, precision, recall)
+- Automatic ticket classification system
+- Priority prediction system
+- Confusion matrix and evaluation metrics
 
 ---
 
 ## 🧠 Key Learning
 - Natural Language Processing (NLP)
-- Text classification
+- Text classification techniques
 - Real-world customer support automation
 
 ---
